@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='Project10Demo.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+LiceCap was having issues recording, so this was recorded using OBS.
 
 ## Notes
 
