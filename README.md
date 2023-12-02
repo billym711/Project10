@@ -1,18 +1,13 @@
-# Project 1: Basic Calculator
+# Project 10: Gestures and Sensors
 
-An Android app for a simple calculator, for C323 Android Mobile Development.
-It has addition, subtraction, multiplication, division, decimals, a percent button, a negative button, and a clear button.
+An Android app using gestures and sensors to move a ball around the screen and get location data of the current device.
 
 ## Functionality 
 
 The following **required** functionality is completed:
 
-* [ ] User can enter a number (displayed on the top)
-* [ ] User can choose an operation and choose another number
-* [ ] User can choose another operation or equals to view the result
-* [ ] User can clear everything with C button
-* [ ] User can make numbers negative or positive with +/-
-* [ ] User can choose % to divide the current number by 100.
+* [ ] User can move the circle around the screen
+* [ ] User's location and temperature are periodically updated
 
 
 The following **extensions** are implemented:
@@ -23,13 +18,11 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Project1Demo.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
+<img src='Project10Demo.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Managing each sequential operation was tricky if I didn't press equal between them. I tried to fix the bugs around it, but there may be things that I forgot to test.
 
 ## License
 
