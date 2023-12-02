@@ -24,6 +24,8 @@ LiceCap was having issues recording, so this was recorded using OBS.
 
 ## Notes
 
+Google Play is still processing my information to upload to the Play Store.
+
 ## License
 
     Copyright [2023] [Billy Moore]
